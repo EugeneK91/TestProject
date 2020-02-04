@@ -13,5 +13,10 @@ namespace ConsoleApp1
 			Console.WriteLine("Hello world1");
 			Console.WriteLine("Hello world3");
 		}
+
+		public void T()
+		{
+
+		}
 	}
 }
